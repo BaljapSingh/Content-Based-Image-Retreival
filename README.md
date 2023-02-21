@@ -7,8 +7,6 @@
 ## Workflow
 ![](http://yusukematsui.me/project/sis/img/overview.png)
 
-## News
-- [2020.06] Updated many parts of the code for [CVPR 2020 tutorial](https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
 
 
 ## Overview
